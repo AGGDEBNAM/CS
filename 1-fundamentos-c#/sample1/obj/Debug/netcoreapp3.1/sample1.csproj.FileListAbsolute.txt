@@ -1,0 +1,13 @@
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\bin\Debug\netcoreapp3.1\sample1.exe
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\bin\Debug\netcoreapp3.1\sample1.deps.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\bin\Debug\netcoreapp3.1\sample1.runtimeconfig.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\bin\Debug\netcoreapp3.1\sample1.runtimeconfig.dev.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\bin\Debug\netcoreapp3.1\sample1.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\bin\Debug\netcoreapp3.1\sample1.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\obj\Debug\netcoreapp3.1\sample1.csprojAssemblyReference.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\obj\Debug\netcoreapp3.1\sample1.AssemblyInfoInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\obj\Debug\netcoreapp3.1\sample1.AssemblyInfo.cs
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\obj\Debug\netcoreapp3.1\sample1.csproj.CoreCompileInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\obj\Debug\netcoreapp3.1\sample1.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\obj\Debug\netcoreapp3.1\sample1.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\cs\1-fundamentos-c#\sample1\obj\Debug\netcoreapp3.1\sample1.genruntimeconfig.cache
