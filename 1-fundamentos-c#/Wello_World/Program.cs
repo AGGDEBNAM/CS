@@ -6,7 +6,7 @@ namespace Wello_World
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Aldo garduño Gomez!");
         }
     }
 }
