@@ -14,7 +14,7 @@ namespace msgwhiteline
             Console.WriteLine("\n   Empieza tu nueva WEB");
             Console.WriteLine("\n   Con " + empresa + " " + elaboracion + " la carga no sera todo tuya. ");
             Console.WriteLine("\n   Interpolacion de Strings ");//la interpolacion es la interjeccion de strings en texto por medio de "{}" y "$".
-            Console.WriteLine($"\n   Ahora {empresa} {elaboracion} {servicio} sabes lo que te brinda\n");
+            Console.WriteLine($"\n   Ahora {} {elaboracion} {servicio} sabes lo que te brinda\n");
 
         }
     }
