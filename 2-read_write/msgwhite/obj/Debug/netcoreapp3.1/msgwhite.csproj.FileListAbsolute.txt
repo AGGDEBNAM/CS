@@ -1,0 +1,13 @@
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\bin\Debug\netcoreapp3.1\msgwhite.exe
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\bin\Debug\netcoreapp3.1\msgwhite.deps.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\bin\Debug\netcoreapp3.1\msgwhite.runtimeconfig.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\bin\Debug\netcoreapp3.1\msgwhite.runtimeconfig.dev.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\bin\Debug\netcoreapp3.1\msgwhite.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\bin\Debug\netcoreapp3.1\msgwhite.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\obj\Debug\netcoreapp3.1\msgwhite.csprojAssemblyReference.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\obj\Debug\netcoreapp3.1\msgwhite.AssemblyInfoInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\obj\Debug\netcoreapp3.1\msgwhite.AssemblyInfo.cs
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\obj\Debug\netcoreapp3.1\msgwhite.csproj.CoreCompileInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\obj\Debug\netcoreapp3.1\msgwhite.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\obj\Debug\netcoreapp3.1\msgwhite.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhite\obj\Debug\netcoreapp3.1\msgwhite.genruntimeconfig.cache

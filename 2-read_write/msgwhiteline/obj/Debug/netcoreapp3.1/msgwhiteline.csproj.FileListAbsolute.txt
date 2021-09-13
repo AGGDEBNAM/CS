@@ -1,0 +1,13 @@
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\bin\Debug\netcoreapp3.1\msgwhiteline.exe
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\bin\Debug\netcoreapp3.1\msgwhiteline.deps.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\bin\Debug\netcoreapp3.1\msgwhiteline.runtimeconfig.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\bin\Debug\netcoreapp3.1\msgwhiteline.runtimeconfig.dev.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\bin\Debug\netcoreapp3.1\msgwhiteline.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\bin\Debug\netcoreapp3.1\msgwhiteline.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\obj\Debug\netcoreapp3.1\msgwhiteline.csprojAssemblyReference.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\obj\Debug\netcoreapp3.1\msgwhiteline.AssemblyInfoInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\obj\Debug\netcoreapp3.1\msgwhiteline.AssemblyInfo.cs
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\obj\Debug\netcoreapp3.1\msgwhiteline.csproj.CoreCompileInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\obj\Debug\netcoreapp3.1\msgwhiteline.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\obj\Debug\netcoreapp3.1\msgwhiteline.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgwhiteline\obj\Debug\netcoreapp3.1\msgwhiteline.genruntimeconfig.cache
