@@ -1,0 +1,13 @@
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\obj\Debug\netcoreapp3.1\tipo_datos_num_decimales.csprojAssemblyReference.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\obj\Debug\netcoreapp3.1\tipo_datos_num_decimales.AssemblyInfoInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\obj\Debug\netcoreapp3.1\tipo_datos_num_decimales.AssemblyInfo.cs
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\obj\Debug\netcoreapp3.1\tipo_datos_num_decimales.csproj.CoreCompileInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\bin\Debug\netcoreapp3.1\tipo_datos_num_decimales.exe
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\bin\Debug\netcoreapp3.1\tipo_datos_num_decimales.deps.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\bin\Debug\netcoreapp3.1\tipo_datos_num_decimales.runtimeconfig.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\bin\Debug\netcoreapp3.1\tipo_datos_num_decimales.runtimeconfig.dev.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\bin\Debug\netcoreapp3.1\tipo_datos_num_decimales.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\bin\Debug\netcoreapp3.1\tipo_datos_num_decimales.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\obj\Debug\netcoreapp3.1\tipo_datos_num_decimales.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\obj\Debug\netcoreapp3.1\tipo_datos_num_decimales.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_decimales\obj\Debug\netcoreapp3.1\tipo_datos_num_decimales.genruntimeconfig.cache
