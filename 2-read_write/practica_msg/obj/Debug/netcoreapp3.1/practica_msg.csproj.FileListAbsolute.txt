@@ -1,0 +1,13 @@
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\bin\Debug\netcoreapp3.1\practica_msg.exe
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\bin\Debug\netcoreapp3.1\practica_msg.deps.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\bin\Debug\netcoreapp3.1\practica_msg.runtimeconfig.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\bin\Debug\netcoreapp3.1\practica_msg.runtimeconfig.dev.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\bin\Debug\netcoreapp3.1\practica_msg.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\bin\Debug\netcoreapp3.1\practica_msg.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\obj\Debug\netcoreapp3.1\practica_msg.csprojAssemblyReference.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\obj\Debug\netcoreapp3.1\practica_msg.AssemblyInfoInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\obj\Debug\netcoreapp3.1\practica_msg.AssemblyInfo.cs
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\obj\Debug\netcoreapp3.1\practica_msg.csproj.CoreCompileInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\obj\Debug\netcoreapp3.1\practica_msg.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\obj\Debug\netcoreapp3.1\practica_msg.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\practica_msg\obj\Debug\netcoreapp3.1\practica_msg.genruntimeconfig.cache
