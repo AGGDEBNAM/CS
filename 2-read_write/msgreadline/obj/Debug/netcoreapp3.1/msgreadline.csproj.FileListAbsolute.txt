@@ -1,0 +1,13 @@
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\obj\Debug\netcoreapp3.1\msgreadline.csprojAssemblyReference.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\obj\Debug\netcoreapp3.1\msgreadline.AssemblyInfoInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\obj\Debug\netcoreapp3.1\msgreadline.AssemblyInfo.cs
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\obj\Debug\netcoreapp3.1\msgreadline.csproj.CoreCompileInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\bin\Debug\netcoreapp3.1\msgreadline.exe
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\bin\Debug\netcoreapp3.1\msgreadline.deps.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\bin\Debug\netcoreapp3.1\msgreadline.runtimeconfig.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\bin\Debug\netcoreapp3.1\msgreadline.runtimeconfig.dev.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\bin\Debug\netcoreapp3.1\msgreadline.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\bin\Debug\netcoreapp3.1\msgreadline.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\obj\Debug\netcoreapp3.1\msgreadline.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\obj\Debug\netcoreapp3.1\msgreadline.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\2-read_write\msgreadline\obj\Debug\netcoreapp3.1\msgreadline.genruntimeconfig.cache
