@@ -1,0 +1,13 @@
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\bin\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.exe
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\bin\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.deps.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\bin\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.runtimeconfig.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\bin\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.runtimeconfig.dev.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\bin\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\bin\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\obj\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.csprojAssemblyReference.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\obj\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.AssemblyInfoInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\obj\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.AssemblyInfo.cs
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\obj\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.csproj.CoreCompileInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\obj\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\obj\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_sinsigno\tipo_datos_num_sinsigno\obj\Debug\netcoreapp3.1\tipo_datos_num_sinsigno.genruntimeconfig.cache
