@@ -1,0 +1,13 @@
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\bin\Debug\netcoreapp3.1\tipo_datos_num_consigno.exe
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\bin\Debug\netcoreapp3.1\tipo_datos_num_consigno.deps.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\bin\Debug\netcoreapp3.1\tipo_datos_num_consigno.runtimeconfig.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\bin\Debug\netcoreapp3.1\tipo_datos_num_consigno.runtimeconfig.dev.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\bin\Debug\netcoreapp3.1\tipo_datos_num_consigno.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\bin\Debug\netcoreapp3.1\tipo_datos_num_consigno.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\obj\Debug\netcoreapp3.1\tipo_datos_num_consigno.csprojAssemblyReference.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\obj\Debug\netcoreapp3.1\tipo_datos_num_consigno.AssemblyInfoInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\obj\Debug\netcoreapp3.1\tipo_datos_num_consigno.AssemblyInfo.cs
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\obj\Debug\netcoreapp3.1\tipo_datos_num_consigno.csproj.CoreCompileInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\obj\Debug\netcoreapp3.1\tipo_datos_num_consigno.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\obj\Debug\netcoreapp3.1\tipo_datos_num_consigno.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_datos_num_consigno\obj\Debug\netcoreapp3.1\tipo_datos_num_consigno.genruntimeconfig.cache
