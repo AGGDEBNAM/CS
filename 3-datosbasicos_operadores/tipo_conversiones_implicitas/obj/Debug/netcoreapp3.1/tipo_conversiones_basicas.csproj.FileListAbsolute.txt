@@ -1,0 +1,13 @@
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\bin\Debug\netcoreapp3.1\tipo_conversiones_basicas.exe
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\bin\Debug\netcoreapp3.1\tipo_conversiones_basicas.deps.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\bin\Debug\netcoreapp3.1\tipo_conversiones_basicas.runtimeconfig.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\bin\Debug\netcoreapp3.1\tipo_conversiones_basicas.runtimeconfig.dev.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\bin\Debug\netcoreapp3.1\tipo_conversiones_basicas.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\bin\Debug\netcoreapp3.1\tipo_conversiones_basicas.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\obj\Debug\netcoreapp3.1\tipo_conversiones_basicas.csprojAssemblyReference.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\obj\Debug\netcoreapp3.1\tipo_conversiones_basicas.AssemblyInfoInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\obj\Debug\netcoreapp3.1\tipo_conversiones_basicas.AssemblyInfo.cs
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\obj\Debug\netcoreapp3.1\tipo_conversiones_basicas.csproj.CoreCompileInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\obj\Debug\netcoreapp3.1\tipo_conversiones_basicas.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\obj\Debug\netcoreapp3.1\tipo_conversiones_basicas.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\tipo_conversiones_implicitas\obj\Debug\netcoreapp3.1\tipo_conversiones_basicas.genruntimeconfig.cache
