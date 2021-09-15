@@ -10,8 +10,8 @@ namespace tipo_conversiones_basicas
         {
 
             Console.WriteLine("\n========Conversiones-Implicitas========\n");
-            //Se pueden hacer saltos de tipo de varible pero sin hacerlo en sentido contrario.
-            char myChar = '\u005E';
+            //Se pueden hacer saltos de tipo de varible pero sin hacerlo en sentido contrario, ejemplo de char -> float.
+            char myChar = '\u005E';//tambien se puede expresar en forma de caracter 'y' suponiendo que y es mi caracter.
             int myInt = myChar;
             long myLong = myInt;
             float myFloat = myLong;
@@ -21,10 +21,10 @@ namespace tipo_conversiones_basicas
 
             Console.WriteLine("\n===============Los valores=============\n");
             Console.WriteLine($"Mi valor en la Char es de 'u005E' = {myChar}\n");
-            Console.WriteLine($"Mi valor en Int es de '^' = {myInt}\n");
-            Console.WriteLine($"Mi valor en Long es de '94' = {myLong}\n");
-            Console.WriteLine($"Mi valor en Float es de '94' = {myFloat}\n");
-            Console.WriteLine($"Mi valor en Double es de '94' = {myDouble}\n");
+            Console.WriteLine($"           Mi valor en Int es de {myChar} = {myInt}\n");
+            Console.WriteLine($"                      Mi valor en Long es de {myInt} = {myLong}\n");
+            Console.WriteLine($"                                 Mi valor en Float es de {myLong} = {myFloat}\n");
+            Console.WriteLine($"                                            Mi valor en Double es de {myFloat} = {myDouble}\n");
             
             
         }
