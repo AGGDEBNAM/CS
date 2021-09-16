@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "tipo_conversiones_clasesconvert/1.0.0": {
+        "runtime": {
+          "tipo_conversiones_clasesconvert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tipo_conversiones_clasesconvert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
