@@ -7,6 +7,13 @@ namespace operadores_aritmeticos_binarios_suma
         static void Main(string[] args)
         {
 
+            //**dadada
+            //*!ddadadadsdasdasd
+            //*? awdadadawda
+            //*^ dadadwad
+            ////shdubiabd
+            //opejspofpsfjpsf
+
             Console.WriteLine("\nOperacionesAritmeticas-Binaria-Suma");
 
             Console.Write("\nIntroduce tu primera cifra: ");
