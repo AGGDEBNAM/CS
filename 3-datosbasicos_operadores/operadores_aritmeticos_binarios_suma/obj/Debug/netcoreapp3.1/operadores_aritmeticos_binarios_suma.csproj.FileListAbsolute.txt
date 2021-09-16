@@ -1,0 +1,13 @@
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\bin\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.exe
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\bin\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.deps.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\bin\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.runtimeconfig.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\bin\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.runtimeconfig.dev.json
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\bin\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\bin\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\obj\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.csprojAssemblyReference.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\obj\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.AssemblyInfoInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\obj\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.AssemblyInfo.cs
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\obj\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.csproj.CoreCompileInputs.cache
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\obj\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.dll
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\obj\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.pdb
+C:\Users\AldoD\Documents\Proyectos Programacion\Curso_C#\CS\3-datosbasicos_operadores\operadores_aritmeticos_binarios_suma\obj\Debug\netcoreapp3.1\operadores_aritmeticos_binarios_suma.genruntimeconfig.cache
