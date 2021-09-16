@@ -15,7 +15,7 @@ namespace tipo_conversiones_basicas
             int myInt = myChar;
             long myLong = myInt;
             float myFloat = myLong;
-            Double myDouble = myFloat;
+            Double myDouble = myFloat;  
             //En la forma implicita podemos trabajar de esta forma la cual es asignar el 
             //valor de la variable en su tipologia ordenada como se muestra al inicio.
 
@@ -25,7 +25,6 @@ namespace tipo_conversiones_basicas
             Console.WriteLine($"                      Mi valor en Long es de {myInt} = {myLong}\n");
             Console.WriteLine($"                                 Mi valor en Float es de {myLong} = {myFloat}\n");
             Console.WriteLine($"                                            Mi valor en Double es de {myFloat} = {myDouble}\n");
-            
             
         }
 
