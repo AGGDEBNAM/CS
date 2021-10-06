@@ -25,7 +25,6 @@ namespace tipo_conversiones_basicas
             Console.WriteLine($"                      Mi valor en Long es de {myInt} = {myLong}\n");
             Console.WriteLine($"                                 Mi valor en Float es de {myLong} = {myFloat}\n");
             Console.WriteLine($"                                            Mi valor en Double es de {myFloat} = {myDouble}\n");
-            
         }
 
 
