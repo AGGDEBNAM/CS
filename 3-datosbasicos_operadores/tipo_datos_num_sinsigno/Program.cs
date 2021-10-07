@@ -21,6 +21,15 @@ namespace tipo_datos_num_sinsigno
             Console.WriteLine(uintValorValido);
             Console.WriteLine(ulongValorValido);
 
+            
+            //// sssss
+            //** sssss
+            //*! sssss
+            //*? sssss
+            //
+            
+
+
         }
     }
 }
