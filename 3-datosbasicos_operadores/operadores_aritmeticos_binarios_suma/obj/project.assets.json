@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AldoD\\Documents\\Proyectos Programacion\\Curso_C#\\CS\\3-datosbasicos_operadores\\operadores_aritmeticos_binarios_suma\\operadores_aritmeticos_binarios_suma.csproj",
+      "projectUniqueName": "C:\\Users\\AldoD\\OneDrive\\Documentos\\ProyectosProgramacion\\Curso_C#\\CS\\3-datosbasicos_operadores\\operadores_aritmeticos_binarios_suma\\operadores_aritmeticos_binarios_suma.csproj",
       "projectName": "operadores_aritmeticos_binarios_suma",
-      "projectPath": "C:\\Users\\AldoD\\Documents\\Proyectos Programacion\\Curso_C#\\CS\\3-datosbasicos_operadores\\operadores_aritmeticos_binarios_suma\\operadores_aritmeticos_binarios_suma.csproj",
+      "projectPath": "C:\\Users\\AldoD\\OneDrive\\Documentos\\ProyectosProgramacion\\Curso_C#\\CS\\3-datosbasicos_operadores\\operadores_aritmeticos_binarios_suma\\operadores_aritmeticos_binarios_suma.csproj",
       "packagesPath": "C:\\Users\\AldoD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AldoD\\Documents\\Proyectos Programacion\\Curso_C#\\CS\\3-datosbasicos_operadores\\operadores_aritmeticos_binarios_suma\\obj\\",
+      "outputPath": "C:\\Users\\AldoD\\OneDrive\\Documentos\\ProyectosProgramacion\\Curso_C#\\CS\\3-datosbasicos_operadores\\operadores_aritmeticos_binarios_suma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AldoD\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

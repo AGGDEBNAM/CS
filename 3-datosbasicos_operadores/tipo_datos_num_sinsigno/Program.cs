@@ -22,11 +22,13 @@ namespace tipo_datos_num_sinsigno
             Console.WriteLine(ulongValorValido);
 
             
-            //// sssss
-            //** sssss
-            //*! sssss
-            //*? sssss
-            //
+            
+           //color1     //*^ sssss
+           //color2     //*! sssss
+           //tachado    //// sssss 
+           //subrrayado //** sssss
+           //negritas   //*? sssss
+
             
 
 
